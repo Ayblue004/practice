@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build":"browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ayblue004/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayblue004/practice/issues"
+  },
+  "homepage": "https://github.com/ayblue004/practice#readme",
+   "dependencies": {
+    "live-server": "^1.1.0",
+    "lodash": "^4.17.21"
+  }
+}
