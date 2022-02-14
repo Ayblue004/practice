@@ -1,0 +1,57 @@
+export const Robots = [
+{
+id:0,
+name: "tunde",
+email: "tunde@gmail.com",
+},
+{
+	id: 1,
+	name:"ayomide",
+	email:"ayomide@gmail.com",
+},
+{
+	id:2,
+	name:"kola",
+	email:"kola@gmail.com",
+},
+{
+	id:3,
+	name:"akinjide",
+	email:"akinjide@gmail.com",
+},
+{
+	id:4,
+	name:"tolu",
+	email:"tolu@gmail.com",
+},
+{
+	id:5,
+	name:"alfred",
+	email:"alfred@gmail.com",
+},
+{
+	id:6,
+	name:"busayo",
+	email:"busayo@gmail.com",
+},
+{
+	id:7,
+	name:"cosmos",
+	email:"cosmos@gmail.com",
+},
+{
+	id:8,
+	name:"albert",
+	email:"albert@gmail.com",
+},
+{
+	id:9,
+	name:"femi",
+	email:"femi@gmail.com",
+},
+{
+	id:10,
+	name:"charles",
+	email:"charles@gmail.com",
+}
+];
