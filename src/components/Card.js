@@ -8,6 +8,7 @@ const Card =({id,name,email})=>{
 	<div>
 		<h2> {name}</h2>
 		<p>{email}</p>
+		<p>{id}</p>
 	</div>
 </div>
 		);
